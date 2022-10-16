@@ -5,6 +5,6 @@ Uses BTT Octopus for MCU, Raspberry Pi for Klipper.
 
 Use Voron Trident documentation for software setup, then use my config and klicky files.
 
-https://github.com/mikey63/XO-Core-XY-Printer/blob/main/Images/Front%20View.JPG?raw=true
+![](Images/Front%20View.JPG)
 
 https://github.com/mikey63/XO-Core-XY-Printer/blob/main/Images/Rear%20Panel%20Electronics.JPG?raw=true
