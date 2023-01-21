@@ -10,7 +10,7 @@ Use the Voron Trident documentation to setup the MCU and Klipper, then use my co
 
 # NOTES
 
-***UPDATE 1/21/23!!***
+# ***UPDATE 1/21/23!!***
 
 A.  NEW Toolhead!  I am in the process of upgrading to the new Voron V0.2 Mini Stealthburner toolhead!  Of course, I modified it to work with the longer Rapido hotend.  The basic toolhead parts are the same as the voron version, and I changed up the X carriage to match the new bolt pattern.  This means that any V0.2 toolhead will bolt on the carrage, no modified parts are needed like before.  Hopefully, this makes it easier to use the stock voron toolhead, or any iteration meant to work with the voron 0.2 carriage mount.  The Voron team did a great design on this new version, so I removed the original mini-afterburner from the model.  The only changed part on my stealthburner version is the front shroud, and the Rapido hotend mount.  Now that the hotend mount is a separate part, it makes it much easier to assemble, and change hotends!
 
