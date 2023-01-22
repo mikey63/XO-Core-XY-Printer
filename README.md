@@ -6,7 +6,7 @@ Uses BTT Octopus for MCU, and a Raspberry Pi for Klipper.
 
 Use the Voron Trident documentation to setup the MCU and Klipper, then use my config and klicky files.  That should get you up and running, and nearly ready to print.  Before printing, make sure to fine tune the clicky dock position.
 
-Fore More info:
+For more info:
 https://www.youtube.com/watch?v=fIn6DrubGhQ
 
 ![](Images/Front%20View.JPG)
